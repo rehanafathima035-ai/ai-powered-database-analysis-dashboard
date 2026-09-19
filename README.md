@@ -442,3 +442,7 @@ Rajalakshmi Engineering College, Chennai
 ## ⭐ Project
 
 If you find this project useful or interesting, consider giving the repository a ⭐ on GitHub.
+
+
+A link to my demo video of this project on linked in
+https://www.linkedin.com/posts/rehana-fathima-m_excited-to-share-my-latest-project-ai-powered-activity-7473697143594188802-9DeQ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFNzIbgB5j7Q48ts3qHq5HHMUIvOmpMq3Hk
